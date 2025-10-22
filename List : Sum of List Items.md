@@ -22,5 +22,9 @@ print(sum(l))
 ```
 
 ## Output
+<img width="524" height="120" alt="image" src="https://github.com/user-attachments/assets/954878f4-ff8e-4604-9923-b5df2e27de05" />
+
 
 ## Result
+The Python program that calculates the sum of all elements in a list is executed successfully.
+

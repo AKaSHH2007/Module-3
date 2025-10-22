@@ -22,5 +22,8 @@ else:
    print("Not a Palindrome")
 ```
 ## Output
+<img width="515" height="87" alt="image" src="https://github.com/user-attachments/assets/1655a0fa-43df-447b-afca-b67336073bde" />
 
 ## Result
+The Python program to check whether the string "google" is a palindrome or not, without using built-in palindrome checking functions is executed successfully.
+

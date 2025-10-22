@@ -18,5 +18,8 @@ print('8' in x)
 ```
 
 ## Output
+<img width="521" height="156" alt="image" src="https://github.com/user-attachments/assets/67b897ac-eab3-42c8-9ec6-81c85b641b0a" />
 
 ## Result
+The Python program that checks if the element 'n' and the element 8 exist within a given tuple is executed successfully.
+

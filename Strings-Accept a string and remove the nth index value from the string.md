@@ -25,5 +25,8 @@ def remove(a):
 b = int(input())
 ```
 ## Output
+<img width="524" height="144" alt="image" src="https://github.com/user-attachments/assets/c78ebc45-94ab-4524-9073-fb8850fad9e0" />
 
 ## Result
+The Python program that accepts a string and removes the character at a specified index is executed successfully.
+
